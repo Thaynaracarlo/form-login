@@ -1,0 +1,30 @@
+#Form{
+    padding-left: 35%;
+    padding-top: 15%;
+}
+h1{
+    top: -30px;
+    left: 10px;
+    font-size:40px;
+    font-weight:bold;
+    letter-spacing:20px;
+    color:rgb(13, 235, 198);
+}
+ #email{
+    width: 100%;
+    border: 1px solid white;
+    padding: 4px;
+    border-radius: 0.5rem;  
+}
+#senha{
+    width: 100%;
+    border: 1px solid white;
+    padding: 4px;
+    border-radius: 0.5rem;
+}
+form{
+    border: 2px solid rgb(241, 232, 232);
+    top: 50px;
+    text-align:center;
+}
+ 
