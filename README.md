@@ -11,9 +11,9 @@ Criamos uma tela de login a partir dos modelos existentes no Bootstrap 5, mas ta
 ## Objetivos 
 * Ultilizar o bootstrap 5;
 * Ultilizar os seguintes campos;
-  1. email
-  2. senha
-  3. Botão (acessar)
+* email
+* senha
+* Botão (acessar)
   
 # 🛠️ Tecnologias
 * HTML
