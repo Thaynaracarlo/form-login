@@ -1,5 +1,6 @@
 # 🚀  form-login
 
+
 # 📋 sobre o form-Login
 O projeto de form-login foi realizado composto pela seguinte matéria: 
 Fundamentos de Desenvolvimento Web.
@@ -7,6 +8,13 @@ Fundamentos de Desenvolvimento Web.
 # 📄 Descrição do projeto
 Criamos uma tela de login a partir dos modelos existentes no Bootstrap 5, mas também poderiamos criar nosso  próprio CSS, estilizando usando VSCode.
 
+## Objetivos 
+* Ultilizar o bootstrap 5;
+* Ultilizar os seguintes campos;
+  1. email
+  2. senha
+  3. Botão (acessar)
+  
 # 🛠️ Tecnologias
 * HTML
 * CSS
