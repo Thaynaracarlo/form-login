@@ -1,7 +1,7 @@
-# 🚀  form-login
+# 🚀 form-login
 ![Tela demonstrativa.](tela%20de%20login.png)
 
-# 📋 sobre o form-Login
+# 📋 Sobre o form-Login
 O projeto de form-login foi realizado composto pela seguinte matéria: 
 Fundamentos de Desenvolvimento Web.
 
@@ -10,10 +10,10 @@ Criamos uma tela de login a partir dos modelos existentes no Bootstrap 5, mas ta
 
 ## Objetivos 
 * Ultilizar o bootstrap 5;
-* Ultilizar os seguintes campos;
-* email
-* senha
-* Botão (acessar)
+* Ultilizar os seguintes campos: 
+- Email
+- Senha
+- Botão (acessar)
   
 # 🛠️ Tecnologias
 * HTML
